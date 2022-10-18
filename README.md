@@ -77,12 +77,12 @@ software to test person or company without **WRITTEN PERMISSION** from them.
 - Thewhiteh4t (For Nearyou & Gdrive Location Templates)
 
 
-### installation steps  ### 
+## installation steps :- 
 
           
--cd  HiddenEye-Legacy
--pip3 install -r requirements.txt
--python3 HiddenEye.py
+- cd  HiddenEye-Legacy
+- pip3 install -r requirements.txt
+- python3 HiddenEye.py
 
 
  
