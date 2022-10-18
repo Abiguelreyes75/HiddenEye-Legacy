@@ -76,6 +76,16 @@ software to test person or company without **WRITTEN PERMISSION** from them.
 - TheLinuxChoice ( For His Tools Phishing Pages )
 - Thewhiteh4t (For Nearyou & Gdrive Location Templates)
 
+
+### installation steps  ### 
+
+          
+-cd  HiddenEye-Legacy
+- pip3 install -r requirements.txt
+-python3 HiddenEye.py
+
+
+ 
 ### TESTED ON FOLLOWING:-
 
 - **Kali Linux - Rolling Edition**
