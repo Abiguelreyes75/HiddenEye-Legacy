@@ -79,10 +79,10 @@ software to test person or company without **WRITTEN PERMISSION** from them.
 
 ## installation steps :- 
 
-- git clone  https://github.com/Abiguelreyes75/HiddenEye-Legacy        
-- cd  HiddenEye-Legacy
-- pip3 install -r requirements.txt
-- python3 HiddenEye.py
+- `git clone  https://github.com/Abiguelreyes75/HiddenEye-Legacy`        
+- `cd  HiddenEye-Legacy`
+- `pip3 install -r requirements.txt`
+- `python3 HiddenEye.py`
 
 ## to open tunnel with ssh :-
 
