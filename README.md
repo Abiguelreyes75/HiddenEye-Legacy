@@ -81,7 +81,7 @@ software to test person or company without **WRITTEN PERMISSION** from them.
 
           
 -cd  HiddenEye-Legacy
-- pip3 install -r requirements.txt
+-pip3 install -r requirements.txt
 -python3 HiddenEye.py
 
 
