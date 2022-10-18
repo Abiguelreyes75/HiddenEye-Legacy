@@ -79,7 +79,7 @@ software to test person or company without **WRITTEN PERMISSION** from them.
 
 ## installation steps :- 
 
-          
+- git clone          
 - cd  HiddenEye-Legacy
 - pip3 install -r requirements.txt
 - python3 HiddenEye.py
